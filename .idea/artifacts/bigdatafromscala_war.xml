@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bigdatafromscala:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="bigdata.war">
+      <element id="artifact" artifact-name="bigdatafromscala:war exploded" />
+    </root>
+  </artifact>
+</component>

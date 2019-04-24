@@ -1,0 +1,9 @@
+<symbols>
+    <symbol ticker="APPL">
+        <units>200</units>
+    </symbol>
+    <units>300</units>
+    <symbol ticker="IBM">
+        <units>400</units>
+    </symbol>
+</symbols>
